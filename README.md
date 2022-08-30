@@ -28,7 +28,7 @@ python hawkeye.py -u username
 ```
 #### Run WebServer
 ```python
-python blackbird.py --web
+python hawkeye.py --web
 ```
 Access [http://127.0.0.1:9797](http://127.0.0.1:9797/) on the browser
 
