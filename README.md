@@ -26,6 +26,11 @@ pip install -r requirements.txt
 ```python
 python hawkeye.py -u username
 ```
+#### Run WebServer
+```python
+python blackbird.py --web
+```
+Access [http://127.0.0.1:9797](http://127.0.0.1:9797/) on the browser
 
 #### Read results file
 ```python
